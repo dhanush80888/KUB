@@ -1,6 +1,3 @@
 Hello Guy's
-<<<<<<< Updated upstream
 on 22nd November 2024
-=======
 WE conducting Tech-T24 Gully cricket
->>>>>>> Stashed changes
